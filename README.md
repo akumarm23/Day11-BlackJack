@@ -1,5 +1,10 @@
 # Blackjack Game
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/Version-0.1-purple)
+![Python Version](https://img.shields.io/badge/Python-3.8-orange)
+
+
 Welcome to the Blackjack Game, a simple console-based implementation of the classic card game "Blackjack" or "21". This project is a Python script that allows users to play Blackjack against a computer dealer.
 
 ## Table of Contents
